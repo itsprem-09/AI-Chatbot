@@ -30,7 +30,6 @@ class ChatBotWidget extends StatefulWidget {
 
 class _ChatBotWidgetState extends State<ChatBotWidget> {
   late final ChatController _controller;
-  bool _isFirstOpen = true;
 
   @override
   void initState() {
@@ -72,7 +71,6 @@ class _ChatBotWidgetState extends State<ChatBotWidget> {
     ).whenComplete(() {
       if (widget.clearHistoryOnClose) {
         _controller.clearMessages();
-        _isFirstOpen = true; // Reset first open flag when history is cleared
       }
     });
   }
