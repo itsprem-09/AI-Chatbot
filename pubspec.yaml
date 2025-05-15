@@ -1,7 +1,8 @@
 name: ai_chatbot
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/itsprem-09/AI-Chatbot"
+repository: "https://github.com/itsprem-09/AI-Chatbot"
 
 environment:
   sdk: ^3.6.1
