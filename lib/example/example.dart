@@ -1,5 +1,5 @@
-import 'package:ai_chatbot/ai_chatbot.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_ai_chatbot/flutter_ai_chatbot.dart';
 
 void main() => runApp(MyApp());
 

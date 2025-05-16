@@ -54,7 +54,7 @@ flutter pub get
 ### Basic Implementation
 
 ```dart
-import 'package:ai_chatbot/ai_chatbot.dart';
+import 'package:ai_chatbot/flutter_ai_chatbot.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());

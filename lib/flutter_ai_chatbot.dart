@@ -1,4 +1,4 @@
-library ai_chatbot;
+library flutter_ai_chatbot;
 
 export './src/ai_client.dart';
 export './src/chat_interface.dart';
