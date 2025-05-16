@@ -1,7 +1,7 @@
 # 🤖 ai_chatbot
 
 ![Pub Version](https://img.shields.io/pub/v/ai_chatbot)
-![Issues](https://img.shields.io/github/issues/itsprem-09/ai_chatbot)
+![Issues](https://img.shields.io/github/issues/itsprem-09/AI-Chatbot)
 
 A powerful Flutter package that enables you to implement a real-time AI chatbot with minimal effort. Supports multiple AI services including OpenAI, Gemini, and DeepSeek.
 
