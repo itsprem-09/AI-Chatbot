@@ -134,7 +134,7 @@ src/
 ├── chatbot.dart
 ├── models.dart
 example/
-├── example.dart
+├── main.dart
 ```
 
 ## 📄 License
