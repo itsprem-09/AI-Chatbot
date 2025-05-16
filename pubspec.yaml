@@ -1,5 +1,5 @@
 name: ai_chatbot
-description: "A new Flutter project."
+description: "A Flutter Pub package that lets you integrate an AI-powered chatbot into your Flutter apps with minimal setup. Simply provide your API key and start chatting!"
 version: 0.0.1
 homepage: "https://github.com/itsprem-09/AI-Chatbot"
 repository: "https://github.com/itsprem-09/AI-Chatbot"
