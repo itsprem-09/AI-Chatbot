@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Updated Documentation
+
 ## 0.0.2
 
 * Reorganized project structure for better maintainability

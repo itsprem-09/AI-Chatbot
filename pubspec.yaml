@@ -1,6 +1,6 @@
 name: flutter_ai_chatbot
 description: "A Flutter Pub package that lets you integrate an AI-powered chatbot into your Flutter apps with minimal setup. Simply provide your API key and start chatting!"
-version: 0.0.2
+version: 0.0.3
 homepage: "https://github.com/itsprem-09/AI-Chatbot"
 repository: "https://github.com/itsprem-09/AI-Chatbot"
 
