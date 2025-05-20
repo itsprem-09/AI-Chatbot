@@ -1,4 +1,4 @@
-# 🤖 ai_chatbot
+# 🤖 flutter_ai_chatbot
 
 ![Pub Version](https://img.shields.io/pub/v/flutter_ai_chatbot)
 ![Issues](https://img.shields.io/github/issues/itsprem-09/AI-Chatbot)
@@ -40,7 +40,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  ai_chatbot: ^latest_version
+  flutter_ai_chatbot: ^latest_version
 ```
 
 Then run:
@@ -54,7 +54,7 @@ flutter pub get
 ### Basic Implementation
 
 ```dart
-import 'package:ai_chatbot/flutter_ai_chatbot.dart';
+import 'package:flutter_ai_chatbot/flutter_ai_chatbot.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
@@ -126,7 +126,7 @@ Built-in rate limiting to prevent API quota exhaustion and ensure smooth operati
 
 ```text
 lib/
-├── ai_chatbot.dart
+├── flutter_ai_chatbot.dart
 src/
 ├── ai_client.dart
 ├── chat_bubble.dart
@@ -157,4 +157,4 @@ For issues and feature requests, please create an issue in the GitHub repository
 
 ---
 
-Made with ❤️ by [Prem Jani]
+Made with ❤️ by Prem Jani
